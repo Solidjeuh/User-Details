@@ -111,7 +111,7 @@ $lang = array_merge($lang, array(
 	'END_CHARACTER'		=> 'Z',
 
 	'avatar_type' => array(
-		AVATAR_UPLOAD				=> 'Geuploade avatar',
+		AVATAR_UPLOAD				=> 'Geüploade avatar',
 		AVATAR_REMOTE				=> 'Remote avatar',
 		AVATAR_GALLERY				=> 'Galerij avatar',
 		'avatar.driver.gravatar'	=> 'Gravatar',
@@ -121,7 +121,7 @@ $lang = array_merge($lang, array(
 		INACTIVE_REGISTER	=> 'Nieuw geregistreerd account',
 		INACTIVE_PROFILE	=> 'Profiel gegevens gewijzigd',
 		INACTIVE_MANUAL		=> 'Account gedeactiveerd door beheerder',
-		INACTIVE_REMIND		=> 'Gedwongen gebruikersaccount reactivering',
+		INACTIVE_REMIND		=> 'Gedwongen gebruikers account reactivering',
 	),
 
 	'month_types' => array(
